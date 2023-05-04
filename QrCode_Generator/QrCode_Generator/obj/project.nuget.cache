@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRYoi+pnzqvrI8HU75HhxWXE5MjWwHJBezREfN9lqkZRGOE9H6FL6bEoJ3Zp3SJ1O3duMPMwSokbB4ZTMU8hdg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\QRCode_Generator\\QrCode_Generator\\QrCode_Generator\\QrCode_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\qrcoder\\1.3.9\\qrcoder.1.3.9.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
